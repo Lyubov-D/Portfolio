@@ -16,4 +16,5 @@
 |[Прогнозирование вероятности оттока пользователей для фитнес-центров](https://github.com/Lyubov-D/Portfolio/tree/main/Fitness_club_clients)|На основе данных о посетителях сети фитнес-центров спрогнозировать вероятность оттока для каждого клиента в следующем месяце, сформировать с помощью кластеризации портреты пользователей|Маркетинг-аналитик, Аналитик (универсал)|_Python, Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучение, классификация, кластеризация_|
 |[Анализ базы данных с помощью SQL](https://github.com/Lyubov-D/Portfolio/tree/main/Books_sql)|Проанализировать базу данных одного из конкурирующих сервисов с помощью языка SQL|Data Analyst|_SQL_|
 |[Проект по А/B-тестированию](https://github.com/Lyubov-D/Portfolio/tree/main/A-B_test_result)|Провести оценку результатов A/B-теста|Data Analyst, Аналитик (универсал)|_Python, Pandas, Matplotlib, Plotly,Seaborn, A/B-тестирование_|
+|[Анализ рекламных источников в мобильной игре]()|Формирование модели монетизации|Data Analyst, Аналитик (универсал)|_Pandas, Matplotlib, Python, NumPy, Plotly, SciPy, Seaborn, Tableau_|
 
